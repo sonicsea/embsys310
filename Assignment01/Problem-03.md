@@ -1,1 +1,1 @@
-![Hello World] (Tera_Term_Screenshot.jpg)
+![Hello World] (https://octodex.github.com/images/bannekat.png)
