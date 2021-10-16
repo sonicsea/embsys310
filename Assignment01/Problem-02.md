@@ -1,0 +1,2 @@
+* Only one set of instructions is needed to perform both signed and unsigned arithmetic. Same hardware adder can be used for both signed and unsigned arithmetic operations.
+* There is no "negative zero" for 2's complement.
