@@ -1,0 +1,4 @@
+1. When passing 5 arguments to func1, the 5th argument value is stored temporarily in R0, then the value will be stored on the stack. After that, the first 4 arguments are stored into R0, R1, R2 and R3. Therefore, func1 can use the value of the 4 first arguments directly from R0, R1, R2 and R3. The 5th argument value is on top of the stack for func1 to use.
+2. Compiler generates code to push R7 and LR to the stack. R7 will store the value of the extra argument.
+3. Push R4 to stack. Load value of the extra argument from the second top item (#0x4) of stack into R4. 
+4. R4 gets popped out of the stack after the final result gets store in R0 in func1. Top element of the stack can be referenced as "[SP]", other elements can be referenced as "[SP, #0xINDEX]", where "INDEX" is multiple of 4. Registers,other than R0, R1, R2, R3, must be pushed to the stack for a function to use them.
