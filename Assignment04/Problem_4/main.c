@@ -1,7 +1,16 @@
+int IsLittleEndian()
+{
+  unsigned int x = 1;
+  int result =  (int)(((char *)&x)[0]);
+  return result;
+}
 
 int main()
 {
-  unsigned int x = 1;
-  printf ("%d", (int) (((char *)&x)[0]));
+  int flag = IsLittleEndian();
+  if (flag == 1)
+    printf("Little Endian");
+  else
+    printf("Big Endian");
   return 0;
 }
