@@ -1,0 +1,3 @@
+Was having trouble configuring system clock. Spent a long time playing under "Clock Configuration" tab in STM32CubeMX. Tried many different combinations without much understanding, and I think I got lucky eventually when I select the "PLLCLK" radio button, and keep changing the "MSI RC" value from the dropdown to get rid of the warnings on the diagram. Value 4000 appears to be good. The generated "SysClock_Config" function is able to make the LED brightness change overtime.
+
+Another difficult point is to use "HAL_TIM_PWM_Stop" in the "user_pwm_setvalue" function in order to reflect the changes of the pulse parameter. I got the hint from one of the youtube videos in the lecture slide.

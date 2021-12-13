@@ -1,0 +1,39 @@
+stm32l4xx_hal_exti.pbi: \
+  Z:\VM\ Share\workspace\PWM\Manage_LED_Brightness\Drivers\STM32L4xx_HAL_Driver\Src\stm32l4xx_hal_exti.c \
+  Z:\VM\ Share\workspace\PWM\Manage_LED_Brightness\EWARM/../Drivers/STM32L4xx_HAL_Driver/Inc\stm32l4xx_hal.h \
+  Z:\VM\ Share\workspace\PWM\Manage_LED_Brightness\EWARM/../Core/Inc\stm32l4xx_hal_conf.h \
+  Z:\VM\ Share\workspace\PWM\Manage_LED_Brightness\EWARM/../Drivers/STM32L4xx_HAL_Driver/Inc\stm32l4xx_hal_rcc.h \
+  Z:\VM\ Share\workspace\PWM\Manage_LED_Brightness\EWARM/../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_def.h \
+  Z:\VM\ Share\workspace\PWM\Manage_LED_Brightness\EWARM/../Drivers/CMSIS/Device/ST/STM32L4xx/Include\stm32l4xx.h \
+  Z:\VM\ Share\workspace\PWM\Manage_LED_Brightness\EWARM/../Drivers/CMSIS/Device/ST/STM32L4xx/Include/stm32l475xx.h \
+  Z:\VM\ Share\workspace\PWM\Manage_LED_Brightness\EWARM/../Drivers/CMSIS/Include\core_cm4.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\stdint.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\ycheck.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\yvals.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\DLib_Defaults.h \
+  C:\\Program\ Files\ (x86)\\IAR\ Systems\\Embedded\ Workbench\ 8.3\\arm\\inc\\c\\DLib_Config_Full.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\DLib_Product.h \
+  Z:\VM\ Share\workspace\PWM\Manage_LED_Brightness\EWARM/../Drivers/CMSIS/Include/cmsis_version.h \
+  Z:\VM\ Share\workspace\PWM\Manage_LED_Brightness\EWARM/../Drivers/CMSIS/Include/cmsis_compiler.h \
+  Z:\VM\ Share\workspace\PWM\Manage_LED_Brightness\EWARM/../Drivers/CMSIS/Include\cmsis_iccarm.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\iccarm_builtin.h \
+  Z:\VM\ Share\workspace\PWM\Manage_LED_Brightness\EWARM/../Drivers/CMSIS/Include/mpu_armv7.h \
+  Z:\VM\ Share\workspace\PWM\Manage_LED_Brightness\EWARM/../Drivers/CMSIS/Device/ST/STM32L4xx/Include/system_stm32l4xx.h \
+  Z:\VM\ Share\workspace\PWM\Manage_LED_Brightness\EWARM/../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\stddef.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\ysizet.h \
+  Z:\VM\ Share\workspace\PWM\Manage_LED_Brightness\EWARM/../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_rcc_ex.h \
+  Z:\VM\ Share\workspace\PWM\Manage_LED_Brightness\EWARM/../Drivers/STM32L4xx_HAL_Driver/Inc\stm32l4xx_hal_gpio.h \
+  Z:\VM\ Share\workspace\PWM\Manage_LED_Brightness\EWARM/../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_gpio_ex.h \
+  Z:\VM\ Share\workspace\PWM\Manage_LED_Brightness\EWARM/../Drivers/STM32L4xx_HAL_Driver/Inc\stm32l4xx_hal_dma.h \
+  Z:\VM\ Share\workspace\PWM\Manage_LED_Brightness\EWARM/../Drivers/STM32L4xx_HAL_Driver/Inc\stm32l4xx_hal_cortex.h \
+  Z:\VM\ Share\workspace\PWM\Manage_LED_Brightness\EWARM/../Drivers/STM32L4xx_HAL_Driver/Inc\stm32l4xx_hal_exti.h \
+  Z:\VM\ Share\workspace\PWM\Manage_LED_Brightness\EWARM/../Drivers/STM32L4xx_HAL_Driver/Inc\stm32l4xx_hal_flash.h \
+  Z:\VM\ Share\workspace\PWM\Manage_LED_Brightness\EWARM/../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_flash_ex.h \
+  Z:\VM\ Share\workspace\PWM\Manage_LED_Brightness\EWARM/../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_flash_ramfunc.h \
+  Z:\VM\ Share\workspace\PWM\Manage_LED_Brightness\EWARM/../Drivers/STM32L4xx_HAL_Driver/Inc\stm32l4xx_hal_i2c.h \
+  Z:\VM\ Share\workspace\PWM\Manage_LED_Brightness\EWARM/../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_i2c_ex.h \
+  Z:\VM\ Share\workspace\PWM\Manage_LED_Brightness\EWARM/../Drivers/STM32L4xx_HAL_Driver/Inc\stm32l4xx_hal_pwr.h \
+  Z:\VM\ Share\workspace\PWM\Manage_LED_Brightness\EWARM/../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_pwr_ex.h \
+  Z:\VM\ Share\workspace\PWM\Manage_LED_Brightness\EWARM/../Drivers/STM32L4xx_HAL_Driver/Inc\stm32l4xx_hal_tim.h \
+  Z:\VM\ Share\workspace\PWM\Manage_LED_Brightness\EWARM/../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_tim_ex.h
